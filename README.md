@@ -14,7 +14,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 - [iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
 - [antd-pro-concent](https://github.com/concentjs/antd-pro-concent) - 基于最新的js版本的antd-pro(v2.2.0)，将其改造成concent版本
--[ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
+- [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 
 
 
