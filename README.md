@@ -17,7 +17,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [mall-admin-web](https://github.com/macrozheng/mall-admin-web) - mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。
 - [django-ckeditor](https://github.com/django-ckeditor/django-ckeditor) - Django admin CKEditor integration.
-
+- [nx-admin](https://github.com/mgbq/nx-admin) - 👍 A magical 🐮 ⚔ vue admin.
 
 
 ## Contribute
