@@ -7,7 +7,7 @@ It's like decorating a beautiful Christmas tree in a room. Sometimes a small web
 
 Not limited to any framework (react, vue, angular, etc.), as long as the effect can be simply inserted into the page, you can send it to me, I like them and hope you like them too.
 
-![img](https://github.com/lindelof/awesome-web-effect/blob/master/banner.jpg?raw=true)
+![img](https://github.com/yushuxi/awesome-admin/blob/main/1.jpeg?raw=true)
 
 
 ### wonderful admin page
