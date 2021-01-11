@@ -19,6 +19,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [django-ckeditor](https://github.com/django-ckeditor/django-ckeditor) - Django admin CKEditor integration.
 - [nx-admin](https://github.com/mgbq/nx-admin) - 👍 A magical 🐮 ⚔ vue admin.
 - [beego/admin](https://github.com/beego/admin) - 基于beego的后台管理系统.
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 
 
 ## Contribute
